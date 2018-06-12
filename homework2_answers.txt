@@ -53,6 +53,14 @@
 //////////////////////////////////////////////////////////////////////
 
 
+1.Give an example for when you would use git merge and give an example for when it would be better to submit a pull request to have your branch merged.
+	If you were the creator of a project and you were ready to merge some files to your main branch you could just $ git merge but if you work on a team
+	and your code needs to be reviewed then you should submit a pull request to vote for your code to be merged with main branch.
+
+2. What command do you use to send all of the work that you've done locally to your remote repository?
+	git push
+
+///////////////////////////////////////////////////////////////////////
 
 
 
