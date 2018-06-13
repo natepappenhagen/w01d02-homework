@@ -4,9 +4,24 @@ h1 {
 }
 
 h3 {
-	color: blue;
+	color: grey;
 }
 
 body {
 	margin: 5%;
 }
+
+nav {
+	text-align: center;
+	margin: 5%;
+	font-size: 8;
+	padding-bottom: 15px;
+}
+
+a {
+	margin: 0px 10px;
+	border-bottom: 2px solid transparent;
+	text-decoration: none;
+}
+
+
